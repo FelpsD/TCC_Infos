@@ -1,2 +1,5 @@
 # TCC_Infos
-Some code and information about my last paper
+Dois códigos importantes para o TCC:
+
+- O servidor resposável por receber comandos de um cliente para depois realizar o controle do motor por meio de dois pinos
+- O script que inicia junto com a plaquinha para mudar a conexão com a rede para o tipo DHCP ou para IP Fixo
